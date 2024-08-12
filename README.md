@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hola! Soy Anthony Quesada Brenes</h1>
 
-<img src="https://images4.alphacoders.com/135/thumb-1920-1351760.png" alt="W3Schools.com" width="728" height="408">
+<!-- <img src="https://images4.alphacoders.com/135/thumb-1920-1351760.png" alt="W3Schools.com" width="728" height="408"> -->
 
 Me apasiona el aprendizaje continuo, mi habilidad para transformar ideas en soluciones eficientes y mi enfoque práctico aportan valor a cada proyecto. Disfruto de cada fase del desarrollo, priorizando la calidad y la innovación.
 
