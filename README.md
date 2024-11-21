@@ -7,6 +7,7 @@ I'm passionate about continuous learning. My ability to transform ideas into eff
 ### 🧑‍💻 Programming Languages
 
 ![.NET](https://img.shields.io/badge/.NET-5632d5?style=for-the-badge&logo=.NET)
+![PHP](https://img.shields.io/badge/PHP-7377ad?style=for-the-badge&logo=php&logoColor=white) 
 
 ### 🎨 Frontend Development
 
@@ -20,7 +21,7 @@ I'm passionate about continuous learning. My ability to transform ideas into eff
 ![C#](https://img.shields.io/badge/C%23-563d7c?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-f1dc55?style=for-the-badge&logo=javascript&logoColor=383937)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-7377ad?style=for-the-badge&logo=php&logoColor=white) 
 
 ### 🔧 Databases
 
@@ -49,5 +50,4 @@ I'm passionate about continuous learning. My ability to transform ideas into eff
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) 
 ![Angular](https://img.shields.io/badge/Angular-c50836?style=for-the-badge&logo=angular) 
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-7377ad?style=for-the-badge&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-d63a3a?style=for-the-badge&logo=laravel&logoColor=white) 
